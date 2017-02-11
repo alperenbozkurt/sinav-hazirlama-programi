@@ -1,0 +1,327 @@
+c:\users\alperenbozkurt\documents\visual studio 2010\Projects\sinavHazirlamaProgrami\sinavHazirlamaProgrami\bin\Debug\sinavHazirlamaProgrami.exe
+c:\users\alperenbozkurt\documents\visual studio 2010\Projects\sinavHazirlamaProgrami\sinavHazirlamaProgrami\bin\Debug\sinavHazirlamaProgrami.pdb
+c:\users\alperenbozkurt\documents\visual studio 2010\Projects\sinavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.Form1.resources
+c:\users\alperenbozkurt\documents\visual studio 2010\Projects\sinavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.Properties.Resources.resources
+c:\users\alperenbozkurt\documents\visual studio 2010\Projects\sinavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.csproj.GenerateResource.Cache
+c:\users\alperenbozkurt\documents\visual studio 2010\Projects\sinavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.exe
+c:\users\alperenbozkurt\documents\visual studio 2010\Projects\sinavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.pdb
+c:\users\alperenbozkurt\documents\visual studio 2010\Projects\sinavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.frmAnaEkran.resources
+C:\Users\ulus\Desktop\sinavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.exe
+C:\Users\ulus\Desktop\sinavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.pdb
+C:\Users\ulus\Desktop\sinavHazirlamaProgrami\sinavHazirlamaProgrami\bin\Debug\sinavHazirlamaProgrami.exe
+C:\Users\ulus\Desktop\sinavHazirlamaProgrami\sinavHazirlamaProgrami\bin\Debug\sinavHazirlamaProgrami.pdb
+C:\Users\ulus\Desktop\sinavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.Form1.resources
+C:\Users\ulus\Desktop\sinavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.frmAnaEkran.resources
+C:\Users\ulus\Desktop\sinavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.Properties.Resources.resources
+C:\Users\ulus\Desktop\sinavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.testSorusuEkle.resources
+C:\Users\ulus\Desktop\sinavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.bransEkle.resources
+C:\Users\ulus\Desktop\sinavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.dersEkle.resources
+C:\Users\ulus\Desktop\sinavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.klasikSoruEkle.resources
+C:\Users\ulus\Desktop\sinavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.kullaniciEkle.resources
+C:\Users\ulus\Desktop\sinavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.sinavHazirla.resources
+F:\sinavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.exe
+F:\sinavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.pdb
+D:\sinavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.exe
+D:\sinavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.pdb
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.exe
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.pdb
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\sinavHazirlamaProgrami\bin\Debug\sinavHazirlamaProgrami.exe
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\sinavHazirlamaProgrami\bin\Debug\sinavHazirlamaProgrami.pdb
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.csprojResolveAssemblyReference.cache
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.bransEkle.resources
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.dersEkle.resources
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.Form1.resources
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.frmAnaEkran.resources
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.klasikSoruEkle.resources
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.kullaniciEkle.resources
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.Properties.Resources.resources
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.sinavHazirla.resources
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.testSorusuEkle.resources
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.csproj.GenerateResource.Cache
+C:\Users\ULUS\Desktop\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.exe
+C:\Users\ULUS\Desktop\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.pdb
+C:\Users\ULUS\Desktop\sınavHazirlamaProgrami\sinavHazirlamaProgrami\bin\Debug\sinavHazirlamaProgrami.exe
+C:\Users\ULUS\Desktop\sınavHazirlamaProgrami\sinavHazirlamaProgrami\bin\Debug\sinavHazirlamaProgrami.pdb
+C:\Users\ULUS\Desktop\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.csprojResolveAssemblyReference.cache
+C:\Users\ULUS\Desktop\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.bransEkle.resources
+C:\Users\ULUS\Desktop\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.dersEkle.resources
+C:\Users\ULUS\Desktop\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.Form1.resources
+C:\Users\ULUS\Desktop\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.frmAnaEkran.resources
+C:\Users\ULUS\Desktop\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.klasikSoruEkle.resources
+C:\Users\ULUS\Desktop\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.kullaniciEkle.resources
+C:\Users\ULUS\Desktop\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.Properties.Resources.resources
+C:\Users\ULUS\Desktop\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.sinavHazirla.resources
+C:\Users\ULUS\Desktop\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.testSorusuEkle.resources
+C:\Users\ULUS\Desktop\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.csproj.GenerateResource.Cache
+C:\Users\Abdulkadir\Desktop\Sonnn\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.exe
+C:\Users\Abdulkadir\Desktop\Sonnn\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.pdb
+C:\Users\Abdulkadir\Desktop\Sonnn\sınavHazirlamaProgrami\sinavHazirlamaProgrami\bin\Debug\sinavHazirlamaProgrami.exe
+C:\Users\Abdulkadir\Desktop\Sonnn\sınavHazirlamaProgrami\sinavHazirlamaProgrami\bin\Debug\sinavHazirlamaProgrami.pdb
+C:\Users\Abdulkadir\Desktop\Sonnn\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.csprojResolveAssemblyReference.cache
+C:\Users\Abdulkadir\Desktop\Sonnn\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.bransEkle.resources
+C:\Users\Abdulkadir\Desktop\Sonnn\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.dersEkle.resources
+C:\Users\Abdulkadir\Desktop\Sonnn\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.Form1.resources
+C:\Users\Abdulkadir\Desktop\Sonnn\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.frmAnaEkran.resources
+C:\Users\Abdulkadir\Desktop\Sonnn\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.klasikSoruEkle.resources
+C:\Users\Abdulkadir\Desktop\Sonnn\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.KullaniciEkle.resources
+C:\Users\Abdulkadir\Desktop\Sonnn\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.Properties.Resources.resources
+C:\Users\Abdulkadir\Desktop\Sonnn\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.sinavHazirla.resources
+C:\Users\Abdulkadir\Desktop\Sonnn\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.testSorusuEkle.resources
+C:\Users\Abdulkadir\Desktop\Sonnn\sınavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.csproj.GenerateResource.Cache
+C:\Users\Abdulkadir\Desktop\Sonnn\sınavHazirlamaProgrami\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.exe
+C:\Users\Abdulkadir\Desktop\Sonnn\sınavHazirlamaProgrami\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.pdb
+C:\Users\Abdulkadir\Desktop\Sonnn\sınavHazirlamaProgrami\C#\sinavHazirlamaProgrami\bin\Debug\sinavHazirlamaProgrami.exe
+C:\Users\Abdulkadir\Desktop\Sonnn\sınavHazirlamaProgrami\C#\sinavHazirlamaProgrami\bin\Debug\sinavHazirlamaProgrami.pdb
+C:\Users\Abdulkadir\Desktop\Sonnn\sınavHazirlamaProgrami\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.csprojResolveAssemblyReference.cache
+C:\Users\Abdulkadir\Desktop\Sonnn\sınavHazirlamaProgrami\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.bransEkle.resources
+C:\Users\Abdulkadir\Desktop\Sonnn\sınavHazirlamaProgrami\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.dersEkle.resources
+C:\Users\Abdulkadir\Desktop\Sonnn\sınavHazirlamaProgrami\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.Form1.resources
+C:\Users\Abdulkadir\Desktop\Sonnn\sınavHazirlamaProgrami\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.frmAnaEkran.resources
+C:\Users\Abdulkadir\Desktop\Sonnn\sınavHazirlamaProgrami\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.klasikSoruEkle.resources
+C:\Users\Abdulkadir\Desktop\Sonnn\sınavHazirlamaProgrami\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.KullaniciEkle.resources
+C:\Users\Abdulkadir\Desktop\Sonnn\sınavHazirlamaProgrami\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.Properties.Resources.resources
+C:\Users\Abdulkadir\Desktop\Sonnn\sınavHazirlamaProgrami\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.sinavHazirla.resources
+C:\Users\Abdulkadir\Desktop\Sonnn\sınavHazirlamaProgrami\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.testSorusuEkle.resources
+C:\Users\Abdulkadir\Desktop\Sonnn\sınavHazirlamaProgrami\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.csproj.GenerateResource.Cache
+D:\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.exe
+D:\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.pdb
+D:\C#\sinavHazirlamaProgrami\bin\Debug\sinavHazirlamaProgrami.exe
+D:\C#\sinavHazirlamaProgrami\bin\Debug\sinavHazirlamaProgrami.pdb
+D:\C#\sinavHazirlamaProgrami\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.bransEkle.resources
+D:\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.dersEkle.resources
+D:\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.Form1.resources
+D:\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.frmAnaEkran.resources
+D:\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.klasikSoruEkle.resources
+D:\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.KullaniciEkle.resources
+D:\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.Properties.Resources.resources
+D:\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.sinavHazirla.resources
+D:\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.testSorusuEkle.resources
+D:\C#\sinavHazirlamaProgrami\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\C#\sinavHazirlamaProgrami\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ulus\Desktop\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.exe
+C:\Users\ulus\Desktop\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.pdb
+C:\Users\ulus\Desktop\C#\sinavHazirlamaProgrami\bin\Debug\sinavHazirlamaProgrami.exe
+C:\Users\ulus\Desktop\C#\sinavHazirlamaProgrami\bin\Debug\sinavHazirlamaProgrami.pdb
+C:\Users\ulus\Desktop\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.bransEkle.resources
+C:\Users\ulus\Desktop\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.dersEkle.resources
+C:\Users\ulus\Desktop\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.Form1.resources
+C:\Users\ulus\Desktop\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.frmAnaEkran.resources
+C:\Users\ulus\Desktop\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.klasikSoruEkle.resources
+C:\Users\ulus\Desktop\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.KullaniciEkle.resources
+C:\Users\ulus\Desktop\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.Properties.Resources.resources
+C:\Users\ulus\Desktop\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.sinavHazirla.resources
+C:\Users\ulus\Desktop\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.testSorusuEkle.resources
+C:\Users\ULUS\Desktop\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.İletişim.resources
+C:\Users\ulus\Desktop\Vol2\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.exe
+C:\Users\ulus\Desktop\Vol2\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.pdb
+C:\Users\ulus\Desktop\Vol2\C#\sinavHazirlamaProgrami\bin\Debug\sinavHazirlamaProgrami.exe
+C:\Users\ulus\Desktop\Vol2\C#\sinavHazirlamaProgrami\bin\Debug\sinavHazirlamaProgrami.pdb
+C:\Users\ulus\Desktop\Vol2\C#\sinavHazirlamaProgrami\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ulus\Desktop\Vol2\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.bransEkle.resources
+C:\Users\ulus\Desktop\Vol2\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.dersEkle.resources
+C:\Users\ulus\Desktop\Vol2\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.Form1.resources
+C:\Users\ulus\Desktop\Vol2\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.frmAnaEkran.resources
+C:\Users\ulus\Desktop\Vol2\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.klasikSoruEkle.resources
+C:\Users\ulus\Desktop\Vol2\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.KullaniciEkle.resources
+C:\Users\ulus\Desktop\Vol2\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.Properties.Resources.resources
+C:\Users\ulus\Desktop\Vol2\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.sinavHazirla.resources
+C:\Users\ulus\Desktop\Vol2\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.testSorusuEkle.resources
+C:\Users\ulus\Desktop\Vol2\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.İletişim.resources
+C:\Users\ulus\Desktop\Vol2\C#\sinavHazirlamaProgrami\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ulus\Desktop\Vol2\C#\sinavHazirlamaProgrami\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ulus\Desktop\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.exe
+C:\Users\ulus\Desktop\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.pdb
+C:\Users\ulus\Desktop\Vol3\C#\sinavHazirlamaProgrami\bin\Debug\sinavHazirlamaProgrami.exe
+C:\Users\ulus\Desktop\Vol3\C#\sinavHazirlamaProgrami\bin\Debug\sinavHazirlamaProgrami.pdb
+C:\Users\ulus\Desktop\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ulus\Desktop\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.bransEkle.resources
+C:\Users\ulus\Desktop\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.dersEkle.resources
+C:\Users\ulus\Desktop\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.Form1.resources
+C:\Users\ulus\Desktop\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.frmAnaEkran.resources
+C:\Users\ulus\Desktop\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.klasikSoruEkle.resources
+C:\Users\ulus\Desktop\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.KullaniciEkle.resources
+C:\Users\ulus\Desktop\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.Properties.Resources.resources
+C:\Users\ulus\Desktop\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.sinavHazirla.resources
+C:\Users\ulus\Desktop\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.testSorusuEkle.resources
+C:\Users\ulus\Desktop\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.İletişim.resources
+C:\Users\ulus\Desktop\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ulus\Desktop\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ulus\Desktop\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.SoruGuncelle.resources
+E:\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.exe
+E:\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.pdb
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.exe
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.pdb
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol3\C#\sinavHazirlamaProgrami\bin\Debug\sinavHazirlamaProgrami.exe
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol3\C#\sinavHazirlamaProgrami\bin\Debug\sinavHazirlamaProgrami.pdb
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.csprojResolveAssemblyReference.cache
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.bransEkle.resources
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.dersEkle.resources
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.Form1.resources
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.frmAnaEkran.resources
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.klasikSoruEkle.resources
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.KullaniciEkle.resources
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.Properties.Resources.resources
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.sinavHazirla.resources
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.SoruGuncelle.resources
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.testSorusuEkle.resources
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.İletişim.resources
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.csproj.GenerateResource.Cache
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.SGTest.resources
+C:\Users\Alperen Bozkurt\Desktop\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.exe
+C:\Users\Alperen Bozkurt\Desktop\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.pdb
+C:\Users\Alperen Bozkurt\Desktop\Vol3\C#\sinavHazirlamaProgrami\bin\Debug\sinavHazirlamaProgrami.exe
+C:\Users\Alperen Bozkurt\Desktop\Vol3\C#\sinavHazirlamaProgrami\bin\Debug\sinavHazirlamaProgrami.pdb
+C:\Users\Alperen Bozkurt\Desktop\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.csprojResolveAssemblyReference.cache
+C:\Users\Alperen Bozkurt\Desktop\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.bransEkle.resources
+C:\Users\Alperen Bozkurt\Desktop\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.dersEkle.resources
+C:\Users\Alperen Bozkurt\Desktop\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.Form1.resources
+C:\Users\Alperen Bozkurt\Desktop\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.frmAnaEkran.resources
+C:\Users\Alperen Bozkurt\Desktop\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.klasikSoruEkle.resources
+C:\Users\Alperen Bozkurt\Desktop\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.KullaniciEkle.resources
+C:\Users\Alperen Bozkurt\Desktop\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.Properties.Resources.resources
+C:\Users\Alperen Bozkurt\Desktop\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.SGTest.resources
+C:\Users\Alperen Bozkurt\Desktop\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.sinavHazirla.resources
+C:\Users\Alperen Bozkurt\Desktop\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.SoruGuncelle.resources
+C:\Users\Alperen Bozkurt\Desktop\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.testSorusuEkle.resources
+C:\Users\Alperen Bozkurt\Desktop\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.İletişim.resources
+C:\Users\Alperen Bozkurt\Desktop\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.csproj.GenerateResource.Cache
+C:\Users\Alperen Bozkurt\Desktop\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.SGKlasik.resources
+C:\Users\Alperen Bozkurt\Desktop\Vol3\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.ailetisim.resources
+C:\Users\Alperen Bozkurt\Desktop\Vol4\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.exe
+C:\Users\Alperen Bozkurt\Desktop\Vol4\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.pdb
+C:\Users\Alperen Bozkurt\Desktop\Vol4\C#\sinavHazirlamaProgrami\bin\Debug\sinavHazirlamaProgrami.exe
+C:\Users\Alperen Bozkurt\Desktop\Vol4\C#\sinavHazirlamaProgrami\bin\Debug\sinavHazirlamaProgrami.pdb
+C:\Users\Alperen Bozkurt\Desktop\Vol4\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.csprojResolveAssemblyReference.cache
+C:\Users\Alperen Bozkurt\Desktop\Vol4\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.ailetisim.resources
+C:\Users\Alperen Bozkurt\Desktop\Vol4\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.bransEkle.resources
+C:\Users\Alperen Bozkurt\Desktop\Vol4\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.dersEkle.resources
+C:\Users\Alperen Bozkurt\Desktop\Vol4\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.Form1.resources
+C:\Users\Alperen Bozkurt\Desktop\Vol4\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.frmAnaEkran.resources
+C:\Users\Alperen Bozkurt\Desktop\Vol4\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.klasikSoruEkle.resources
+C:\Users\Alperen Bozkurt\Desktop\Vol4\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.KullaniciEkle.resources
+C:\Users\Alperen Bozkurt\Desktop\Vol4\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.Properties.Resources.resources
+C:\Users\Alperen Bozkurt\Desktop\Vol4\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.SGKlasik.resources
+C:\Users\Alperen Bozkurt\Desktop\Vol4\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.SGTest.resources
+C:\Users\Alperen Bozkurt\Desktop\Vol4\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.sinavHazirla.resources
+C:\Users\Alperen Bozkurt\Desktop\Vol4\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.SoruGuncelle.resources
+C:\Users\Alperen Bozkurt\Desktop\Vol4\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.testSorusuEkle.resources
+C:\Users\Alperen Bozkurt\Desktop\Vol4\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.İletişim.resources
+C:\Users\Alperen Bozkurt\Desktop\Vol4\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.csproj.GenerateResource.Cache
+C:\Users\ULUS\Desktop\Vol4\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.exe
+C:\Users\ULUS\Desktop\Vol4\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.pdb
+C:\Users\ULUS\Desktop\Vol4\C#\sinavHazirlamaProgrami\bin\Debug\sinavHazirlamaProgrami.exe
+C:\Users\ULUS\Desktop\Vol4\C#\sinavHazirlamaProgrami\bin\Debug\sinavHazirlamaProgrami.pdb
+C:\Users\ULUS\Desktop\Vol4\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.csprojResolveAssemblyReference.cache
+C:\Users\ULUS\Desktop\Vol4\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.ailetisim.resources
+C:\Users\ULUS\Desktop\Vol4\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.bransEkle.resources
+C:\Users\ULUS\Desktop\Vol4\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.dersEkle.resources
+C:\Users\ULUS\Desktop\Vol4\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.Form1.resources
+C:\Users\ULUS\Desktop\Vol4\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.frmAnaEkran.resources
+C:\Users\ULUS\Desktop\Vol4\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.klasikSoruEkle.resources
+C:\Users\ULUS\Desktop\Vol4\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.KullaniciEkle.resources
+C:\Users\ULUS\Desktop\Vol4\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.Properties.Resources.resources
+C:\Users\ULUS\Desktop\Vol4\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.SGKlasik.resources
+C:\Users\ULUS\Desktop\Vol4\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.SGTest.resources
+C:\Users\ULUS\Desktop\Vol4\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.sinavHazirla.resources
+C:\Users\ULUS\Desktop\Vol4\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.SoruGuncelle.resources
+C:\Users\ULUS\Desktop\Vol4\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.testSorusuEkle.resources
+C:\Users\ULUS\Desktop\Vol4\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.İletişim.resources
+C:\Users\ULUS\Desktop\Vol4\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.csproj.GenerateResource.Cache
+C:\Users\ULUS\Desktop\Vol5\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.exe
+C:\Users\ULUS\Desktop\Vol5\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.pdb
+C:\Users\ULUS\Desktop\Vol5\C#\sinavHazirlamaProgrami\bin\Debug\sinavHazirlamaProgrami.exe
+C:\Users\ULUS\Desktop\Vol5\C#\sinavHazirlamaProgrami\bin\Debug\sinavHazirlamaProgrami.pdb
+C:\Users\ULUS\Desktop\Vol5\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.csprojResolveAssemblyReference.cache
+C:\Users\ULUS\Desktop\Vol5\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.ailetisim.resources
+C:\Users\ULUS\Desktop\Vol5\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.bransEkle.resources
+C:\Users\ULUS\Desktop\Vol5\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.dersEkle.resources
+C:\Users\ULUS\Desktop\Vol5\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.Form1.resources
+C:\Users\ULUS\Desktop\Vol5\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.frmAnaEkran.resources
+C:\Users\ULUS\Desktop\Vol5\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.klasikSoruEkle.resources
+C:\Users\ULUS\Desktop\Vol5\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.KullaniciEkle.resources
+C:\Users\ULUS\Desktop\Vol5\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.Properties.Resources.resources
+C:\Users\ULUS\Desktop\Vol5\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.SGKlasik.resources
+C:\Users\ULUS\Desktop\Vol5\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.SGTest.resources
+C:\Users\ULUS\Desktop\Vol5\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.sinavHazirla.resources
+C:\Users\ULUS\Desktop\Vol5\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.SoruGuncelle.resources
+C:\Users\ULUS\Desktop\Vol5\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.testSorusuEkle.resources
+C:\Users\ULUS\Desktop\Vol5\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.İletişim.resources
+C:\Users\ULUS\Desktop\Vol5\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.csproj.GenerateResource.Cache
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol6\Vol5\C#\sinavHazirlamaProgrami\bin\Debug\sinavHazirlamaProgrami.exe
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol6\Vol5\C#\sinavHazirlamaProgrami\bin\Debug\sinavHazirlamaProgrami.pdb
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol6\Vol5\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.csprojResolveAssemblyReference.cache
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol6\Vol5\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.ailetisim.resources
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol6\Vol5\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.bransEkle.resources
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol6\Vol5\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.dersEkle.resources
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol6\Vol5\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.Form1.resources
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol6\Vol5\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.frmAnaEkran.resources
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol6\Vol5\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.klasikSoruEkle.resources
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol6\Vol5\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.KullaniciEkle.resources
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol6\Vol5\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.Properties.Resources.resources
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol6\Vol5\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.SGKlasik.resources
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol6\Vol5\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.SGTest.resources
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol6\Vol5\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.sinavHazirla.resources
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol6\Vol5\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.SoruGuncelle.resources
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol6\Vol5\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.testSorusuEkle.resources
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol6\Vol5\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.İletişim.resources
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol6\Vol5\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.csproj.GenerateResource.Cache
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol6\Vol5\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.exe
+C:\Users\Abdulkadir\Desktop\sınavHazirlamaProgrami\Vol6\Vol5\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.pdb
+C:\Users\ulus\Desktop\C#\sinavHazirlamaProgrami\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ulus\Desktop\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.ailetisim.resources
+C:\Users\ulus\Desktop\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.SGKlasik.resources
+C:\Users\ulus\Desktop\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.SGTest.resources
+C:\Users\ulus\Desktop\C#\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.SoruGuncelle.resources
+C:\Users\ulus\Desktop\C#\sinavHazirlamaProgrami\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ulus\Desktop\C#\sinavHazirlamaProgrami\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ULUS\Desktop\v7(final)\sinavHazirlamaProgrami\bin\Debug\sinavHazirlamaProgrami.exe
+C:\Users\ULUS\Desktop\v7(final)\sinavHazirlamaProgrami\bin\Debug\sinavHazirlamaProgrami.pdb
+C:\Users\ULUS\Desktop\v7(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.csprojResolveAssemblyReference.cache
+C:\Users\ULUS\Desktop\v7(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.ailetisim.resources
+C:\Users\ULUS\Desktop\v7(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.bransEkle.resources
+C:\Users\ULUS\Desktop\v7(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.dersEkle.resources
+C:\Users\ULUS\Desktop\v7(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.Form1.resources
+C:\Users\ULUS\Desktop\v7(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.frmAnaEkran.resources
+C:\Users\ULUS\Desktop\v7(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.klasikSoruEkle.resources
+C:\Users\ULUS\Desktop\v7(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.KullaniciEkle.resources
+C:\Users\ULUS\Desktop\v7(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.Properties.Resources.resources
+C:\Users\ULUS\Desktop\v7(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.SGKlasik.resources
+C:\Users\ULUS\Desktop\v7(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.SGTest.resources
+C:\Users\ULUS\Desktop\v7(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.sinavHazirla.resources
+C:\Users\ULUS\Desktop\v7(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.SoruGuncelle.resources
+C:\Users\ULUS\Desktop\v7(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.testSorusuEkle.resources
+C:\Users\ULUS\Desktop\v7(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.csproj.GenerateResource.Cache
+C:\Users\ULUS\Desktop\v7(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.exe
+C:\Users\ULUS\Desktop\v7(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.pdb
+C:\Users\ULUS\Desktop\v7(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.hakkimizda.resources
+C:\Users\ULUS\Desktop\v7(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.frmIletisim.resources
+C:\Users\ULUS\Desktop\v8(final)\sinavHazirlamaProgrami\bin\Debug\sinavHazirlamaProgrami.exe
+C:\Users\ULUS\Desktop\v8(final)\sinavHazirlamaProgrami\bin\Debug\sinavHazirlamaProgrami.pdb
+C:\Users\ULUS\Desktop\v8(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.csprojResolveAssemblyReference.cache
+C:\Users\ULUS\Desktop\v8(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.ailetisim.resources
+C:\Users\ULUS\Desktop\v8(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.bransEkle.resources
+C:\Users\ULUS\Desktop\v8(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.dersEkle.resources
+C:\Users\ULUS\Desktop\v8(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.Form1.resources
+C:\Users\ULUS\Desktop\v8(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.frmAnaEkran.resources
+C:\Users\ULUS\Desktop\v8(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.hakkimizda.resources
+C:\Users\ULUS\Desktop\v8(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.klasikSoruEkle.resources
+C:\Users\ULUS\Desktop\v8(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.KullaniciEkle.resources
+C:\Users\ULUS\Desktop\v8(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.Properties.Resources.resources
+C:\Users\ULUS\Desktop\v8(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.SGKlasik.resources
+C:\Users\ULUS\Desktop\v8(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.SGTest.resources
+C:\Users\ULUS\Desktop\v8(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.sinavHazirla.resources
+C:\Users\ULUS\Desktop\v8(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.SoruGuncelle.resources
+C:\Users\ULUS\Desktop\v8(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.testSorusuEkle.resources
+C:\Users\ULUS\Desktop\v8(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.frmIletisim.resources
+C:\Users\ULUS\Desktop\v8(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.csproj.GenerateResource.Cache
+C:\Users\ULUS\Desktop\v8(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.exe
+C:\Users\ULUS\Desktop\v8(final)\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.pdb
+C:\Users\ULUS\Desktop\SinavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.csprojResolveAssemblyReference.cache
+C:\Users\ULUS\Desktop\SinavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.ailetisim.resources
+C:\Users\ULUS\Desktop\SinavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.hakkimizda.resources
+C:\Users\ULUS\Desktop\SinavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.SGKlasik.resources
+C:\Users\ULUS\Desktop\SinavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.SGTest.resources
+C:\Users\ULUS\Desktop\SinavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.SoruGuncelle.resources
+C:\Users\ULUS\Desktop\SinavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.frmIletisim.resources
+C:\Users\ULUS\Desktop\SinavHazirlamaProgrami\sinavHazirlamaProgrami\obj\x86\Debug\sinavHazirlamaProgrami.csproj.GenerateResource.Cache
